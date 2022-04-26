@@ -2,6 +2,8 @@
 
 </br>Full Stack Web Development Bootcamp at <a href="https://www.releevant.com/">Releevant</a> 💻
 
+### About me in code
+
 ```js
 const vera = {
   pronouns: "he" | "him",
@@ -10,7 +12,7 @@ const vera = {
 }
 ```
 
-You can find me 🔍:
+### You can find me 🔍:
 - [Twitter](https://twitter.com/JVera_95)
 - [Linkedin](https://www.linkedin.com/in/jvera95/)
 - [Instagram](https://www.instagram.com/josevr_95/)
