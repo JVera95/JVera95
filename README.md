@@ -1,5 +1,7 @@
 ### Hi, I'm Vera 👋🧑‍💻
 
+</br>Full Stack Web Development Bootcamp at <a href="https://www.releevant.com/">Releevant</a> 💻
+
 ```js
 const vera = {
   pronouns: "he" | "him",
