@@ -1,6 +1,6 @@
 ### Hi, I'm Vera 👋🧑‍💻
 
-</br>APEX and Full Stack Web Development at Novoshore<a href="(https://www.novoshore.com/)">Novoshore</a> 💻
+</br>APEX and Full Stack Web Development at <a href="https://www.novoshore.com/">Novoshore</a> 💻
 
 ### About me in code
 
