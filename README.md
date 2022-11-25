@@ -1,6 +1,6 @@
 ### Hi, I'm Vera 👋🧑‍💻
 
-</br>Full Stack Web Development Bootcamp at <a href="https://www.releevant.com/">Releevant</a> 💻
+</br>APEX and Full Stack Web Development at Novoshore<a href="(https://www.novoshore.com/)">Novoshore</a> 💻
 
 ### About me in code
 
