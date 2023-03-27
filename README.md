@@ -7,14 +7,13 @@
 ```js
 const vera = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [APEX, React, Node, MongoDB, SQL, PL/SQL, JQuery, AJAX, JSON, Docker, SCRUM],
+  code: [JS, HTML, CSS],
+  tools: [APEX, Cypress, React, NodeJS, MongoDB, SQL, PL/SQL, JQuery, GIT, Jira, Confluence],
 }
 ```
 
 ### You can find me 🔍:
 - [Linkedin](https://www.linkedin.com/in/jvera95/)
-- [Twitter](https://twitter.com/JVera_95)
 - [Instagram](https://www.instagram.com/josevr_95/)
 
 <!--
