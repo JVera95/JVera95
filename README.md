@@ -8,7 +8,7 @@
 const vera = {
   pronouns: "he" | "him",
   code: [JS, HTML, CSS],
-  tools: [APEX, Cypress, React, NodeJS, MongoDB, SQL, PL/SQL, JQuery, GIT, Jira, Confluence],
+  tools: [APEX, Cypress, React, NodeJS, MongoDB, SQL, PL/SQL, JQuery, GIT, Jira],
 }
 ```
 
